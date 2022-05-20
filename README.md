@@ -1,2 +1,2 @@
 # Quest: Tabela estilizada ❗
-Resolução da primeira Quest do curso DevQuest
+Resolução da primeira Quest do curso DevQuest.
